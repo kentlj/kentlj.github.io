@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-06T04:13:44.000Z</updated>
+  <updated>2017-09-06T09:54:05.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,26 +16,16 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hi</title>
-    <link href="http://yoursite.com/2017/09/05/hi/"/>
-    <id>http://yoursite.com/2017/09/05/hi/</id>
-    <published>2017-09-05T09:19:50.000Z</published>
-    <updated>2017-09-06T04:13:44.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h1><p>Today is a sunny day</p>
-]]></content>
+    <title>什么是闭包</title>
+    <link href="http://yoursite.com/2017/09/06/%E4%BB%80%E4%B9%88%E6%98%AF%E9%97%AD%E5%8C%85/"/>
+    <id>http://yoursite.com/2017/09/06/什么是闭包/</id>
+    <published>2017-09-06T09:53:31.000Z</published>
+    <updated>2017-09-06T09:54:05.000Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;My-First-Blog&quot;&gt;&lt;a href=&quot;#My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;My First Blog&quot;&gt;&lt;/a&gt;My First Blog&lt;/h1&gt;&lt;p&gt;Today is a sunny day&lt;/p&gt;
-
-    
     </summary>
     
-      <category term="None" scheme="http://yoursite.com/categories/None/"/>
-    
-    
-      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
     
   </entry>
   
